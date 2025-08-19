@@ -95,6 +95,7 @@
 |52|CodeGlance Pro|在编辑器窗格中显示类似于 Sublime 中的缩小概览或小地图|<https://plugins.jetbrains.com/plugin/18824-codeglance-pro>|
 |53|Indent Rainbow|使缩进更具可读性|<https://plugins.jetbrains.com/plugin/13308-indent-rainbow>|
 |54|Rainbow Brackets Lite|Rainbow Brackets 免费版本|<https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite--free-and-opensource>|
+|55|Spring Debugger|JetBrains 官方编写的 Spring 辅助插件|<https://plugins.jetbrains.com/plugin/25302-spring-debugger>|
 
 
 ## lombok 插件的使用
