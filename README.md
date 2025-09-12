@@ -67,6 +67,7 @@
 	- [IntelliJ IDEA 常用细节-2](settings-introduce-2.md)
 	- [IntelliJ IDEA 常用细节-3](settings-introduce-3.md)
 	- [IntelliJ IDEA 常用细节-4](settings-introduce-4.md)
+	- [Java 大型项目 VM 配置](vm-settings.md)
 - **插件推荐、插件开发**
 	- [插件相关功能设置、插件推荐](plugins-settings.md)
 	- [Java 热部署插件 JRebel 安装及使用](jrebel-setup.md)
